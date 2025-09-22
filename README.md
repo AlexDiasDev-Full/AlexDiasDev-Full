@@ -10,11 +10,6 @@
    #### Eu sou Dias e eu sou um 
     Programador por opção, a tempos venho acompanhando a evolução de softwares de acordo com as demandas do mercado, usuário de plataforma unix com comandos em linguagem de maquinas industriais, atualmente evoluíram para plataformas mais comercializadas com Windows e Linux. Com sede de inovação e aprendizado, hoje sistemas como linguagem C, C#, Java, PHP, Node.js, Jquery, HTML, CSS, JavaScript que é a base de todo o programador, possibilitando a gestão de aprendizado com as demais linguagens, abrangendo as mais novas tecnologias do mercado, com o auxílio da linguagem C, gerencio todo o volume de dados que posso absorver no dia-dia de estudante, e no dia-dia pessoal, com uma gestão financeira, gestão em saúde, gestão em eventos sociais, gestão acadêmica etc... Enfim, A programação faz parte da minha vida.
 
-E-mail:
-   ale.xxdias@hotmail.com 
-[!["Portfolio"](https://www.alexdiasdev-full.github.io/Portfolio/)](https://www.alexdiasdev-full.github.io/Portfolio/)
-[!["AleWebDesign"](https://www.)](https://www.alewebdesign.com)
-
 ### Linguagens & Tecnologias
 
 <img 
